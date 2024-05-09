@@ -22,7 +22,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theshubham1008&show_icons=true&locale=en" alt="theshubham1008" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theshubham1008&" alt="theshubham1008" /></p>
+<p>State<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theshubham1008&" alt="theshubham1008" /></p>
 
 <!--
 **TheShubham1008/TheShubham1008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
