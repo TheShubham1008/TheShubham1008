@@ -1,4 +1,4 @@
-![logo](https://github.com/TheShubham1008/TheShubham1008/blob/main/Black%20Modern%20Graphic%20Designer%20LinkedIn%20Banner.png)
+![logo](https://github.com/TheShubham1008/TheShubham1008/blob/main/Black%20Simple%20Elegant%20Personal%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Shubham Singh</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
